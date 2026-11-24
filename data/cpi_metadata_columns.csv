@@ -1,0 +1,22 @@
+column_id,component_type,position,full_name,concept_id,codelist_id,assignment_status
+MEASURE,Dimension,1,Measure,MEASURE,CL_CPI_MEASURE,
+UNIT_MEASURE,Dimension,2,Unit of measure,UNIT_MEASURE,CL_UNIT_MEASURE,
+REF_AREA,Dimension,3,Reference area,REF_AREA,CL_AREA,
+FREQ,Dimension,4,Frequency,FREQ,CL_FREQ,
+CPI_DIV,Dimension,5,CPI Division,CPI_DIV,CL_CPI_DIV,
+SOURCE_DETAIL,Dimension,6,Source,SOURCE_DETAIL,CL_SOURCE,
+TIME_PERIOD,TimeDimension,7,Time period,TIME_PERIOD,,
+DECIMALS,Attribute,,Decimals,DECIMALS,CL_DECIMALS,Conditional
+OBS_VALUE,Dimension,,Observation value,OBS_VALUE,,
+OBS_VALUE,Dimension,,Observation value,OBS_VALUE,,
+OBS_VALUE,Dimension,,Observation value,OBS_VALUE,,
+OBS_VALUE,Dimension,,Observation value,OBS_VALUE,,
+OBS_VALUE,Dimension,,Observation value,OBS_VALUE,,
+OBS_VALUE,Dimension,,Observation value,OBS_VALUE,,
+OBS_STATUS,Attribute,,Observation status,OBS_STATUS,CL_OBS_STATUS,Conditional
+OBS_VALUE,Measure,,Observation value,OBS_VALUE,,
+UNIT_MULT,Attribute,,Unit multiplier,UNIT_MULT,CL_UNIT_MULT,Conditional
+OBS_VALUE,Measure,,Observation value,OBS_VALUE,,
+BASE_YEAR,Attribute,,Base Year,BASE_YEAR,,Mandatory
+OBS_VALUE,Measure,,Observation value,OBS_VALUE,,
+OBS_VALUE,Measure,,Observation value,OBS_VALUE,,

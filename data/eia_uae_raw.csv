@@ -1,0 +1,20 @@
+period,productId,productName,activityId,activityName,countryRegionId,countryRegionName,countryRegionTypeId,countryRegionTypeName,dataFlagId,dataFlagDescription,unitName,value,unit,activity
+2025-01,57,Crude oil including lease condensate,1,Production,ARE,United Arab Emirates,c,Country,,,thousand barrels per day,3577.0,TBPD,production
+2025-02,57,Crude oil including lease condensate,1,Production,ARE,United Arab Emirates,c,Country,,,thousand barrels per day,3567.0,TBPD,production
+2025-03,57,Crude oil including lease condensate,1,Production,ARE,United Arab Emirates,c,Country,,,thousand barrels per day,3577.0,TBPD,production
+2025-04,57,Crude oil including lease condensate,1,Production,ARE,United Arab Emirates,c,Country,,,thousand barrels per day,3587.0,TBPD,production
+2025-05,57,Crude oil including lease condensate,1,Production,ARE,United Arab Emirates,c,Country,,,thousand barrels per day,3707.000000000001,TBPD,production
+2025-06,57,Crude oil including lease condensate,1,Production,ARE,United Arab Emirates,c,Country,,,thousand barrels per day,3677.0,TBPD,production
+2025-07,57,Crude oil including lease condensate,1,Production,ARE,United Arab Emirates,c,Country,,,thousand barrels per day,3847.0,TBPD,production
+2025-08,57,Crude oil including lease condensate,1,Production,ARE,United Arab Emirates,c,Country,,,thousand barrels per day,3887.0,TBPD,production
+2025-09,57,Crude oil including lease condensate,1,Production,ARE,United Arab Emirates,c,Country,,,thousand barrels per day,3957.000000000001,TBPD,production
+2025-10,57,Crude oil including lease condensate,1,Production,ARE,United Arab Emirates,c,Country,,,thousand barrels per day,3927.0,TBPD,production
+2025-11,57,Crude oil including lease condensate,1,Production,ARE,United Arab Emirates,c,Country,,,thousand barrels per day,3992.0,TBPD,production
+2025-12,57,Crude oil including lease condensate,1,Production,ARE,United Arab Emirates,c,Country,,,thousand barrels per day,3937.0,TBPD,production
+2026-01,57,Crude oil including lease condensate,1,Production,ARE,United Arab Emirates,c,Country,,,thousand barrels per day,3972.0,TBPD,production
+2026-02,57,Crude oil including lease condensate,1,Production,ARE,United Arab Emirates,c,Country,,,thousand barrels per day,4032.0,TBPD,production
+2026-03,57,Crude oil including lease condensate,1,Production,ARE,United Arab Emirates,c,Country,,,thousand barrels per day,2150.0,TBPD,production
+2026-04,57,Crude oil including lease condensate,1,Production,ARE,United Arab Emirates,c,Country,,,thousand barrels per day,2570.0,TBPD,production
+2026-05,57,Crude oil including lease condensate,1,Production,ARE,United Arab Emirates,c,Country,,,thousand barrels per day,2670.0,TBPD,production
+2026-06,57,Crude oil including lease condensate,1,Production,ARE,United Arab Emirates,c,Country,,,thousand barrels per day,4170.0,TBPD,production
+2026-07,57,Crude oil including lease condensate,1,Production,ARE,United Arab Emirates,c,Country,,,thousand barrels per day,4210.0,TBPD,production

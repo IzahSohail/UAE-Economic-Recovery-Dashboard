@@ -1,0 +1,20 @@
+column_id,component_type,position,full_name,concept_id,codelist_id,assignment_status
+REF_AREA,Dimension,1,Reference area,REF_AREA,CL_AREA,
+FREQ,Dimension,2,Frequency of observation,FREQ,CL_FREQ,
+UNIT_MEASURE,Dimension,3,Unit of measure,UNIT_MEASURE,CL_UNIT_MEASURE,
+SOURCE_DETAIL,Dimension,4,Source,SOURCE_DETAIL,CL_SOURCE,
+MEASURE,Dimension,5,Measure,MEASURE,CL_TRADE_MEASURE,
+TRADE_TYPE,Dimension,6,Trade Type,TRADE_TYPE,CL_TRADE_TYPE,
+HS_SECTION,Dimension,7,Harmonised System Section,HS_SECTION,CL_HS_SECTION,
+HS_CHAPTER,Dimension,8,Harmonised System Chapter,HS_CHAPTER,CL_HS_CHAPTER,
+COUNTRY,Dimension,9,Country,COUNTRY,CL_TRADE_COUNTRY,
+TIME_PERIOD,TimeDimension,10,Time period,TIME_PERIOD,,
+OBS_STATUS,Attribute,,Observation status,OBS_STATUS,CL_OBS_STATUS,Conditional
+OBS_VALUE,Measure,,Observation value,OBS_VALUE,,
+UNIT_MULT,Attribute,,Unit multiplier,UNIT_MULT,CL_UNIT_MULT,Conditional
+OBS_VALUE,Measure,,Observation value,OBS_VALUE,,
+OBS_COMMENT,Attribute,,Footnotes,OBS_COMMENT,,Conditional
+OBS_VALUE,Measure,,Observation value,OBS_VALUE,,
+DECIMALS,Attribute,,Decimals,DECIMALS,CL_DECIMALS,Conditional
+OBS_VALUE,Measure,,Observation value,OBS_VALUE,,
+OBS_VALUE,Measure,,Observation value,OBS_VALUE,,

@@ -1,0 +1,19 @@
+column_id,component_type,position,full_name,concept_id,codelist_id,assignment_status
+REF_AREA,Dimension,1,Reference area,REF_AREA,CL_AREA,
+FREQ,Dimension,2,Frequency of observation,FREQ,CL_FREQ,
+UNIT_MEASURE,Dimension,3,Unit of measure,UNIT_MEASURE,CL_UNIT_MEASURE,
+SOURCE_DETAIL,Dimension,4,Source,SOURCE_DETAIL,CL_SOURCE,
+MEASURE,Dimension,5,Measure,MEASURE,CL_QGDP_MEASURE,
+QUARTER,Dimension,6,Quarter,QUARTER,CL_QUARTER,
+QGDP_SYS,Dimension,7,GDP System,QGDP_SYS,CL_QGDP_SYS,
+QGDP_UNIT,Dimension,8,GDP Unit,QGDP_UNIT,CL_QGDP_UNIT,
+TIME_PERIOD,TimeDimension,9,Time period,TIME_PERIOD,,
+OBS_STATUS,Attribute,,Observation status,OBS_STATUS,CL_OBS_STATUS,Conditional
+OBS_VALUE,Measure,,Observation value,OBS_VALUE,,
+UNIT_MULT,Attribute,,Unit multiplier,UNIT_MULT,CL_UNIT_MULT,Conditional
+OBS_VALUE,Measure,,Observation value,OBS_VALUE,,
+OBS_COMMENT,Attribute,,Footnotes,OBS_COMMENT,,Conditional
+OBS_VALUE,Measure,,Observation value,OBS_VALUE,,
+DECIMALS,Attribute,,Decimals,DECIMALS,CL_DECIMALS,Conditional
+OBS_VALUE,Measure,,Observation value,OBS_VALUE,,
+OBS_VALUE,Measure,,Observation value,OBS_VALUE,,
